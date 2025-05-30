@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="./banner.png" alt="Mythz banner" width="100%" />
+  <img src="./banner.png" alt="Mythz banner" width="60%" />
 </p>
 
 
