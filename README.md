@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Mythz banner" width="100%" />
+</p>
+
+
 # 👋 ¡Hola! Soy Mythz
 
 🚀 **Software Developer | Freelance Fullstack**
