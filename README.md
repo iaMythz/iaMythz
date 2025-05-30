@@ -1,8 +1,11 @@
 # 👋 ¡Hola! Soy Mythz
 
 🚀 **Software Developer | Freelance Fullstack**
+
 🎓 **Máster en Inteligencia Artificial y Big Data**
+
 💡 Apasionado por el desarrollo de software, la IA y los retos tecnológicos.
+
 
 <p align="center">
   <img src="./banner.png" alt="Mythz banner" width="100%" />
